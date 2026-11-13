@@ -9,15 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zouaouiyacine07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zouaouiyacine07%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=181717" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yacine-zouaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-Yacine_Zouaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sismax01?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6_Public-181717?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub Repositories" />
-  </a>
+  <a href="mailto:zouaouiyacine07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ZOUAOUIYACINE07%40GMAIL.COM-B8860B?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=555555" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yacine-zouaoui"><img src="https://img.shields.io/badge/LINKEDIN-YACINE_ZOUAOUI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" /></a>
+  <a href="https://github.com/sismax01?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-6_PUBLIC-111111?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=555555" alt="Repositories" /></a>
 </p>
 
 ---
